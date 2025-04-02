@@ -1,6 +1,6 @@
 <img align="right" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Thisaru </h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charuka96&label=Profile%20views&color=0e75b6&style=flat" alt="charuka96" /> </p>
 
